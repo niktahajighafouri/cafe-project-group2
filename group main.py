@@ -1,2 +1,2 @@
 # to check
-print ('Hellooooo')
+print ('Hello')
